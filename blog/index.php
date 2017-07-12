@@ -96,7 +96,7 @@ $articulo = new Article(new Conexion());
                         
                          
                              <p class="aboutMe2">En ese caso, entra a la siguente liga, te llevará al proyecto en github de este blog</p>
-                             <a class="btn-success" href="#">Ir a github</a>
+                             <a class="btn-success" href="https://github.com/iabin/otroblogpendejo">Ir a github</a>
                 </div>
 
 
