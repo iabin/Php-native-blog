@@ -1,0 +1,58 @@
+.cabeza{
+    color: white;
+    font-family: 'Yeseva One', cursive;
+    background-color:rgba(1, 1, 1, 0.6);
+    letter-spacing: 2px;
+    text-align: center; 
+    padding: 0;
+    margin: 0;
+    margin-top: 70px;
+}
+
+.posteado{
+    font-size: 15px;
+    letter-spacing: 2px;
+    padding: 0;
+    margin-bottom: 40px;
+    margin-top: -20px;
+}
+
+.lapiz{
+font-size: 17px;
+
+
+
+}
+
+.lista{
+    
+    font-size: 17px;
+    text-align: center;
+
+}
+.imagenes{
+    max-height: 400px;
+    display:block;
+    margin:auto;
+}
+
+h4.aboutMe{
+
+font-size: 25px;
+margin-top: 60px;
+margin-bottom: 40px;
+
+}
+ p.aboutMe{
+    text-align: center;
+ }
+
+img.aboutMe{
+    margin-top: 20px;
+    width:90px;
+    height:90px;
+    border-radius:50%;
+   margin-left: auto;
+  margin-right: auto;
+    
+}
